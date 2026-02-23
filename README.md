@@ -166,7 +166,7 @@ La Licencia MIT permite:
 
 **¿Te ha resultado útil EPI-c?** ¡Dale una ⭐ al proyecto!
 
-Hecho con ❤️ en Aranjuez, Madrid por el Chaimae y Andrea
+Hecho con ❤️ en Aranjuez, Madrid por Chaimae y Andrea
 
 [Volver arriba ⬆️](#️-epi-c---gestión-inteligente-de-epis-para-centros-logísticos)
 
